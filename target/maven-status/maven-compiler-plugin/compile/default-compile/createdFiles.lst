@@ -1,0 +1,6 @@
+clist/model/Task.class
+clist/Application.class
+clist/service/TaskService.class
+clist/dao/TaskRepository.class
+clist/controller/MainController.class
+clist/model/Category.class
